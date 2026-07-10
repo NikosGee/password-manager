@@ -37,7 +37,7 @@ Python 3 · CustomTkinter (UI) · cryptography (encryption) · tkcalendar · Pil
 
 ```bash
 # clone
-git clone https://github.com/<your-username>/password-manager.git
+git clone https://github.com/NikosGee/password-manager.git
 cd password-manager
 
 # create and activate a virtual environment
