@@ -1,0 +1,4 @@
+customtkinter
+tkcalendar
+cryptography
+pillow

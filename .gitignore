@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Personal data — NEVER commit (contains your encrypted vault & settings)
+master.json
+vault.json
+settings.json
+*.pmbackup
+
+# Atomic-write temp files
+*.tmp
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Leftover working folders (not part of the repo)
+backup_originals/
+Version 1.0/
+saved_state/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
